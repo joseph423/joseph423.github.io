@@ -135,5 +135,5 @@ docker-volumes/
 #Mac
 .DS_Store
 
-# # Custom .gitignore
+# Custom .gitignore
 frontend
