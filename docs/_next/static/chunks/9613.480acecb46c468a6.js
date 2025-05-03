@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9613],{9613:function(e,t,r){"use strict";r.r(t);var s=r(57437),u=r(74473);t.default=()=>(0,s.jsx)(u.Excalidraw,{theme:"dark"})},74473:function(e,t,r){"true"===r(40257).env.IS_PREACT?e.exports=r(61330):e.exports=r(55448)}}]);
